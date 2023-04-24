@@ -1,0 +1,7 @@
+body{
+
+}
+.w-fit{
+    width: fit-content;
+    max-width: fit-content;
+}
