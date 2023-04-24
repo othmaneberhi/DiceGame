@@ -17,7 +17,7 @@ body{
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-    color: #5bc0de;
+    color: #292b2c;
     text-shadow: none; /* Prevent inheritance from `body` */
     background-color: #fff;
     border: .05rem solid #fff;
@@ -31,7 +31,7 @@ body{
 html,
 body {
     height: 100%;
-    background-color: #5bc0de;
+    background-color: #292b2c;
 }
 body {
     color: #fff;
